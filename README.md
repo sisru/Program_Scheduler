@@ -2,7 +2,6 @@
 We make great Program_Scheduler. We work for it. Hassan.
   
 # 회원가입, 로그인 기능 구현 - 백승우
-<hr/>  
   
 >무언가를  
 >이곳에  
@@ -22,7 +21,6 @@ We make great Program_Scheduler. We work for it. Hassan.
 <hr/>
   
 # 일정추가, 카테고리 구현 - 김지호, 시승우
-<hr/>  
   
 >메인 화면에서 일정 추가 버튼을 구현  
 >일정 제목 타이핑 기능.  

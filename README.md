@@ -3,17 +3,23 @@ We make great Program_Scheduler. We work for it. Hassan.
   
 <hr/>
 # 회원가입, 로그인 기능 구현 - 백승우  
->무언가를  
->이곳에  
->적어주세요  
+
+>무언가를
   
-[Activity]  
-ㄴ  
-ㄴ  
+>이곳에
   
-[xml]  
-ㄴ  
-ㄴ  
+>적어주세요
+  
+  
+**[Activity]**  
+> 1. 무언가를  
+> 2. 이곳에
+> 3. 적어주세요.
+  
+**[xml]**  
+> 1. 무언가를  
+> 2. 이곳에
+> 3. 적어주세요.  
   
 <hr/>
   
@@ -33,4 +39,4 @@ We make great Program_Scheduler. We work for it. Hassan.
 > 2. activity_dialog - EditText, 날짜지정 버튼, 카테고리 추가 버튼  
 > 3. activity_categori - 리스트 뷰, 추가 버튼, 삭제 버튼, 완료 버튼  
   
--------------------------------------------------------------------------------------------------
+<hr/>

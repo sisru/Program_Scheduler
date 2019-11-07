@@ -1,9 +1,8 @@
 # Program_Scheduler
 We make great Program_Scheduler. We work for it. Hassan.
   
-<hr/>
-# 회원가입, 로그인 기능 구현 - 백승우  
-
+# 회원가입, 로그인 기능 구현 - 백승우
+  
 >무언가를  
 >이곳에  
 >적어주세요

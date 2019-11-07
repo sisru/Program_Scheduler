@@ -24,7 +24,7 @@ We make great Program_Scheduler. We work for it. Hassan.
    §일정 날짜 지정 기능. (Datepickerdialog 기능으로 달력 팝업.)  
    §카테고리 지정 기능. (DB 숙지 이후 수정 예정.)  
      
-**[Activity]**
+**[Activity]**  
 ㄴ MainActivity(수정예정) - 일정 추가 버튼 setOnClickListener, onClick 관리.  
 ㄴ DialogActivity(수정예정) - 팝업 화면 관리.  
 ㄴ CategoriActivity - 카테고리 추가, 선택, 삭제 관리. (DB 맞게 수정 예정).  

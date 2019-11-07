@@ -3,10 +3,10 @@ We make great Program_Scheduler. We work for it. Hassan.
   
 <hr/>
 # 회원가입, 로그인 기능 구현 - 백승우
-   §  
+>   §  
    §  
 
-> [Activity]  
+ [Activity]  
 ㄴ  
 ㄴ  
 

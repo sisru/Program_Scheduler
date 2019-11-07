@@ -3,11 +3,11 @@ We make great Program_Scheduler. We work for it. Hassan.
   
 <hr/>
 # 회원가입, 로그인 기능 구현 - 백승우  
->  
-  §  
-  §  
+>무언가를  
+>이곳에  
+>적어주세요  
   
- [Activity]  
+[Activity]  
 ㄴ  
 ㄴ  
   
@@ -18,10 +18,10 @@ We make great Program_Scheduler. We work for it. Hassan.
 <hr/>
   
 # 일정추가, 카테고리 구현 - 김지호, 시승우  
-   §메인 화면에서 일정 추가 버튼을 구현  
-   §일정 제목 타이핑 기능.  
-   §일정 날짜 지정 기능. (Datepickerdialog 기능으로 달력 팝업.)  
-   §카테고리 지정 기능. (DB 숙지 이후 수정 예정.)  
+>메인 화면에서 일정 추가 버튼을 구현  
+>일정 제목 타이핑 기능.  
+>일정 날짜 지정 기능. (Datepickerdialog 기능으로 달력 팝업.)  
+>카테고리 지정 기능. (DB 숙지 이후 수정 예정.)  
      
 **[Activity]**  
 > 1. MainActivity(수정예정) - 일정 추가 버튼 setOnClickListener, onClick 관리.  
